@@ -1,0 +1,77 @@
+[
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 1: Kickoff meeting held and scope clarified.",
+    "timestamp": "2025-01-05T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 2: Initial design documents reviewed and approved.",
+    "timestamp": "2025-01-12T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 3: Backend development started with API setup.",
+    "timestamp": "2025-01-19T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 4: Front-end framework integrated and tested.",
+    "timestamp": "2025-01-26T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 5: Delayed due to team availability issues.",
+    "timestamp": "2025-02-02T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 6: Resumed progress after resource reallocation.",
+    "timestamp": "2025-02-09T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 7: Client requested additional feature integration.",
+    "timestamp": "2025-02-16T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 8: Mid-phase demo delivered to stakeholders.",
+    "timestamp": "2025-02-23T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 9: Minor bugs discovered in QA testing phase.",
+    "timestamp": "2025-03-02T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 10: Hotfix deployed after initial testing feedback.",
+    "timestamp": "2025-03-09T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 11: Security audit passed with minimal recommendations.",
+    "timestamp": "2025-03-16T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 12: Final user acceptance testing scheduled.",
+    "timestamp": "2025-03-23T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 13: Documentation completed for final delivery.",
+    "timestamp": "2025-03-30T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 14: Project handover planned with operations.",
+    "timestamp": "2025-04-06T18:52:35.302438"
+  },
+  {
+    "project_id": "P002",
+    "text": "[Project 2] Week 15: Post-mortem review scheduled next week.",
+    "timestamp": "2025-04-13T18:52:35.302438"
+  }
+]

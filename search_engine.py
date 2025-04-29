@@ -48,3 +48,5 @@ class SemanticSearchEngine:
         with open(entries_path, "w", encoding="utf-8") as f:
             json.dump(entries, f, ensure_ascii=False, indent=2)
         faiss.write_index(index, index_path)
+
+
